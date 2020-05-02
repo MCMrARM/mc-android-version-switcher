@@ -1,0 +1,6 @@
+[submodule "deps/google-play-api"]
+	path = deps/google-play-api
+	url = git@github.com:MCMrARM/Google-Play-API.git
+[submodule "deps/protobuf"]
+	path = deps/protobuf
+	url = git@github.com:protocolbuffers/protobuf.git

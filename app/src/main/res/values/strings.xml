@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Minecraft Version</string>
+    <string name="title_activity_google_login">Google Login</string>
+
+    <string name="status_not_downloaded">Not downloaded</string>
+    <string name="status_downloaded">Downloaded</string>
+    <string name="status_installed">Installed</string>
+
+    <string name="text_reinstall">Switching version…</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="error_api_not_authenticated">Not authenticated to the API yet</string>
+</resources>
